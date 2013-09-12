@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Todos</string>
+    <string name="task_title_hint">What do you want to do?</string>
+    <string name="task_details_hint">List More Information Here</string>
+    <string name="task_title_label">TASK:</string>
+    <string name="task_details_label">DETAILS:</string>
+    <string name="task_date_label">DEADLINE:</string>
+    <string name="task_complete_label">DONE?</string>
+    <string name="date_picker_title">Due Date</string>
+    <string name="task_title">TO-DO LIST</string>
+    <string name="new_task">New Task</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle">Click to View, Hold to Delete</string>
+    <string name="delete_task">Delete Task</string>
+
+</resources>
